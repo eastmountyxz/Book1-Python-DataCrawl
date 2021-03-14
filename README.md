@@ -5,8 +5,6 @@
     <img src="https://img-blog.csdn.net/20180611095441156" width="40%" height="40%" />
 </div>
 
-![Uploading image.png…]()
-
 
 ---
 
