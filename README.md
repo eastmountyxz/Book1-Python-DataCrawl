@@ -18,7 +18,7 @@
 "爬取篇"主要讲解Python网络数据爬取知识，如下图所示，表示爬取的基本流程及核心内容。
 
 <div align=center>
-    <img src="https://img-blog.csdn.net/20180611112133549" width="40%" height="40%" />
+    <img src="https://img-blog.csdn.net/20180611112133549" width="60%" height="40%" />
 </div>
 
 
