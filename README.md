@@ -1,5 +1,5 @@
 # Book1-Python-DataCrawl
-该资源为杨秀璋作者《Python网络数据爬取及分析从入门到精通（爬取篇）》书籍所有源代码，已修改为Python3实现，希望对您有所帮助，一起加油。
+该资源为杨秀璋作者《Python网络数据爬取及分析从入门到精通（爬取篇）》书籍所有源代码，包括Python基础、网络爬虫基础、Urllib、BeautifulSoup、Selenium、在线百科抓取、豆瓣抓取、微博抓取等内容。所有代码已修改为Python3实现，希望对您有所帮助，一起加油。
 
 <div align=center>
     <img src="https://img-blog.csdn.net/20180611095441156" width="40%" height="40%" />
